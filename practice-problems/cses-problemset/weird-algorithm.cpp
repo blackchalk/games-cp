@@ -1,7 +1,8 @@
 #include <iostream>
+typedef long long ll;
 using namespace std;
 int main(){
-	int n;
+	ll n;
  cin >> n;
 	while(true){
 	cout << n << " ";
