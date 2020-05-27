@@ -1,6 +1,8 @@
+// Input 3
+// Output 3 10 5 16 8 4 2 1
 #include <iostream>
-typedef long long ll;
 using namespace std;
+typedef long long ll;
 int main(){
 	ll n;
  cin >> n;
