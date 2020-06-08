@@ -1,11 +1,15 @@
-## CP submissions
+##  Submissions
 
 ### Requirements
 1. g++ , gcc supports c++11
 2. vim
 3. impementation file <bits/stdc++.h>
 ### List of Competitive Programming sites in here
-1. [Codeforces](https://github.com/blackchalk/games-cp#codeforces-entries)
+1. [Code Submission Evaluation System](https://cses.fi/about)
+2. [Codeforces](https://github.com/blackchalk/games-cp#codeforces-entries)
+
+### CSES
+1. Weird Algorith - ** odd/even ** - [weird-algorithm](https://github.com/blackchalk/games-cp/blob/master/practice-problems/cses-problemset/weird-algorithm.cpp)
 ### Codeforces entries
 list[problem code. Title] - problem types or tags - link to file
 1. A. Anton and Danik - **string** - [734/problem/A](practice-problems/codeforces/problem_734a.cpp)
