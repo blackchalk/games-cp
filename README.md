@@ -4,7 +4,7 @@
 1. g++ , gcc supports c++11
 2. vim
 3. impementation file <bits/stdc++.h>
-### List of Competitive Programming sites in here
+### List of Competitive Programming joined
 1. [Code Submission Evaluation System](https://github.com/blackchalk/games-cp#cses) (https://cses.fi/about)
 2. [Codeforces](https://github.com/blackchalk/games-cp#codeforces-entries) (https://codeforces.com/)
 
