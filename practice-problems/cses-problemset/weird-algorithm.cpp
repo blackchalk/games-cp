@@ -1,5 +1,4 @@
-// Input 3
-// Output 3 10 5 16 8 4 2 1
+//https://cses.fi/problemset/task/1068
 #include <iostream>
 using namespace std;
 typedef long long ll;
