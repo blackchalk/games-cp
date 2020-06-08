@@ -1,3 +1,4 @@
+//https://codeforces.com/contest/1157/problem/A
 #include<iostream>
 using namespace std;
 #define deb(x) cerr << #x << " = " << x << endl;
