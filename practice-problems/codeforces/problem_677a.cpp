@@ -1,5 +1,4 @@
 //http://codeforces.com/contest/677/problem/A
-//http://codeforces.com/contest/677/problem/A
 #include<iostream>
 using namespace std;
 int main(){
