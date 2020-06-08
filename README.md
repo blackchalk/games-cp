@@ -5,8 +5,8 @@
 2. vim
 3. impementation file <bits/stdc++.h>
 ### List of Competitive Programming sites in here
-1. [Code Submission Evaluation System](https://cses.fi/about)
-2. [Codeforces](https://github.com/blackchalk/games-cp#codeforces-entries)
+1. [Code Submission Evaluation System](https://github.com/blackchalk/games-cp#cses) (https://cses.fi/about)
+2. [Codeforces](https://github.com/blackchalk/games-cp#codeforces-entries) (https://codeforces.com/)
 
 ### CSES
 1. Weird Algorith - ** odd/even ** - [weird-algorithm](https://github.com/blackchalk/games-cp/blob/master/practice-problems/cses-problemset/weird-algorithm.cpp)
