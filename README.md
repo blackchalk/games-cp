@@ -14,7 +14,7 @@
 
 ### CSES
 
-1. Weird Algorith - ** odd/even ** - [weird-algorithm](https://github.com/blackchalk/games-cp/blob/master/practice-problems/cses-problemset/weird-algorithm.cpp)
+1. Weird Algorithm - **odd/even** - [weird-algorithm](https://github.com/blackchalk/games-cp/blob/master/practice-problems/cses-problemset/weird-algorithm.cpp)
 
 ### Codeforces entries
 
