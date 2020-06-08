@@ -5,7 +5,7 @@
 2. vim
 3. impementation file <bits/stdc++.h>
 ### List of Competitive Programming sites in here
-1. [Codeforces]()
+1. [Codeforces](https://github.com/blackchalk/games-cp#codeforces-entries)
 ### Codeforces entries
 format
 problem number [problem title] - problem types or tags - link to file
