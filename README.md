@@ -24,4 +24,4 @@
 4. A. Team - **bruteforce, loop** - [231/problem/A](https://github.com/blackchalk/games-cp/blob/master/practice-problems/codeforces/problem_231a.cpp)
 5. A. Beautiful Matrix -  **absolute value of a number** - [263/problem/A](https://github.com/blackchalk/games-cp/blob/master/practice-problems/codeforces/problem_263a.cpp)
 6. A. Gravity Flip - **sorting array of numbers** -  [405/problem/A](https://github.com/blackchalk/games-cp/blob/master/practice-problems/codeforces/problem_405a.cpp)
-7. A. Petya and Strings - **string comparison,decimal representation** - [112/problem](https://github.com/blackchalk/games-cp/blob/master/practice-problems/codeforces/problem_112a.cpp)
+7. A. Petya and Strings - **string comparison** - [112/problem](https://github.com/blackchalk/games-cp/blob/master/practice-problems/codeforces/problem_112a.cpp)
