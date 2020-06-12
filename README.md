@@ -26,3 +26,4 @@
 6. A. Gravity Flip - **sorting array of numbers** -  [405/problem/A](https://github.com/blackchalk/games-cp/blob/master/practice-problems/codeforces/problem_405a.cpp)
 7. A. Petya and Strings - **string comparison** - [112/problem/A](https://github.com/blackchalk/games-cp/blob/master/practice-problems/codeforces/problem_112a.cpp)
 8. A. Boy or Girl - **string implementation** - [236/problem/A](https://github.com/blackchalk/games-cp/commit/1e8a32522ea0c4f38c05d5d6a3d167cf09b88b0f)
+9. A. Word - **string implementation** - [59/problem/A](https://github.com/blackchalk/games-cp/commit/52b1f1e70206a74675253db02836203b1d12db9b)
