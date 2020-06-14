@@ -7,7 +7,7 @@
 2. vim
 3. impementation file <bits/stdc++.h>
 
-### List of Competitive Programming joined
+### List of Competitive Programming
 
 1. [Code Submission Evaluation System](https://github.com/blackchalk/games-cp#cses) (https://cses.fi/about)
 2. [Codeforces](https://github.com/blackchalk/games-cp#codeforces-entries) (https://codeforces.com/)
@@ -27,3 +27,4 @@
 7. A. Petya and Strings - **string comparison** - [112/problem/A](https://github.com/blackchalk/games-cp/blob/master/practice-problems/codeforces/problem_112a.cpp)
 8. A. Boy or Girl - **string implementation** - [236/problem/A](https://github.com/blackchalk/games-cp/commit/1e8a32522ea0c4f38c05d5d6a3d167cf09b88b0f)
 9. A. Word - **string implementation** - [59/problem/A](https://github.com/blackchalk/games-cp/commit/52b1f1e70206a74675253db02836203b1d12db9b)
+10. A. Magnets - **string implementation** -  [344/problem/A](https://github.com/blackchalk/games-cp/commit/7f937b3cccf3f819d6ef56e1bde25664dc2ba452)
